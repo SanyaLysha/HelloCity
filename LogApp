@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-04-13T03:43:06</date>
+  <millis>1523580186010</millis>
+  <sequence>1</sequence>
+  <logger>Hello.Main</logger>
+  <level>INFO</level>
+  <class>Hello.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>INFO - информационный уровень</message>
+</record>
+<record>
+  <date>2018-04-13T03:43:06</date>
+  <millis>1523580186011</millis>
+  <sequence>2</sequence>
+  <logger>Hello.Main</logger>
+  <level>WARNING</level>
+  <class>Hello.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>WARNING - предупреждение</message>
+</record>
+<record>
+  <date>2018-04-13T03:43:06</date>
+  <millis>1523580186012</millis>
+  <sequence>3</sequence>
+  <logger>Hello.Main</logger>
+  <level>SEVERE</level>
+  <class>Hello.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SEVERE - серъёзная ошибка</message>
+</record>
+<record>
+  <date>2018-04-13T03:43:09</date>
+  <millis>1523580189600</millis>
+  <sequence>4</sequence>
+  <logger>Hello.Main</logger>
+  <level>INFO</level>
+  <class>Hello.Main</class>
+  <method>input</method>
+  <thread>1</thread>
+  <message>read data</message>
+</record>
+<record>
+  <date>2018-04-13T03:43:09</date>
+  <millis>1523580189601</millis>
+  <sequence>5</sequence>
+  <logger>Hello.Main</logger>
+  <level>INFO</level>
+  <class>Hello</class>
+  <method>getWelcome</method>
+  <thread>1</thread>
+  <message>getWelcome started working</message>
+</record>
+<record>
+  <date>2018-04-13T03:43:09</date>
+  <millis>1523580189603</millis>
+  <sequence>6</sequence>
+  <logger>Hello.Main</logger>
+  <level>INFO</level>
+  <class>Hello.Main</class>
+  <method>goResult</method>
+  <thread>1</thread>
+  <message>The end of the program</message>
+</record>
+</log>
